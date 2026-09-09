@@ -2,6 +2,10 @@
 
 Primer parcial del curso de Inteligencia Artificial. El notebook [parcial1_ia.ipynb](parcial1_ia.ipynb) construye un modelo de clasificación binaria que estima, **antes de que empiece el semestre**, la probabilidad de que un alumno apruebe la asignatura Mecánica de Materiales 1.
 
+### Google Colab
+
+https://colab.research.google.com/drive/14Po3H3ABmvUB7KiKm-sP-brDFIE0Azo8?usp=sharing
+
 ## Objetivo
 
 Cada fila de `datos_concatenados.csv` representa el intento de un alumno en una asignatura, en un semestre y ciclo específicos. A partir de esos datos se construye una tabla donde cada fila es un intento de un alumno en Mecánica de Materiales 1, con variables conocidas al momento de la inscripción (antes de que el semestre empiece):
