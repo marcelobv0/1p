@@ -1,2 +1,2 @@
 # 1p
-1p - ia
+1p Inteligencia Artificial
