@@ -2,7 +2,7 @@
 
 Primer parcial del curso de Inteligencia Artificial. El notebook [parcial1_ia.ipynb](parcial1_ia.ipynb) construye un modelo de clasificación binaria que estima, **antes de que empiece el semestre**, la probabilidad de que un alumno apruebe la asignatura Mecánica de Materiales 1.
 
-### Google Colab
+### Google Colab - cualquier persona de FIUNA puede acceder
 
 https://colab.research.google.com/drive/14Po3H3ABmvUB7KiKm-sP-brDFIE0Azo8?usp=sharing
 
